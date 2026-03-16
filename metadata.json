@@ -1,0 +1,5 @@
+{
+  "name": "极简待办清单",
+  "description": "一个干净、纯粹的每日待办事项管理工具，支持移动端和桌面端。",
+  "requestFramePermissions": []
+}
